@@ -7,7 +7,7 @@
 
 ## Trabalho de Programação Lógica
 
-O objetivo deste trabalho é praticar a modelagem lógica de problemas e a implementação de soluções para os mesmos utilizando programação declarativa em Prolog. Mais especificamente no sistema SWI Prolog.
+O objetivo deste trabalho é praticar a modelagem lógica de problemas e a implementação de soluções para os mesmos utilizando programação declarativa em Prolog. Mais especificamente no sistema SWI Prolog. Conforme [especificação].
 
 ## Problemas
 O trabalho consistie de três problemas.
@@ -47,3 +47,6 @@ Para resolução destes problemas foram usados as seguintes ferramentas:
 
    [SWI-Prolog]: <http://www.swi-prolog.org/>
    [SWISH]: <https://swish.swi-prolog.org/>
+   [trabalho2_1.pl]: <https://github.com/jpforol/mestrado_trabalho_prolog/blob/main/trabalho2_1.pl>
+   [trabalho2_2]: <https://github.com/jpforol/mestrado_trabalho_prolog/blob/main/trabalho2_2.pl>
+   [especificação]: <https://github.com/jpforol/mestrado_trabalho_prolog/blob/main/especifica%C3%A7%C3%A3o.pdf>
