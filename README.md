@@ -1,6 +1,6 @@
 ### Instituto Federal do Espírito Santo – Campus Serra
 #### Mestrado Profissional em Computação Aplicada - Inteligência Artificial
-#### Prof. Dr. Jefferson O. Andrade e Prof Dr. Sérgio Nery Simões
+#### Prof. Dr. Jefferson O. Andrade
 
 ## Autor
 - ### João Pedro Forequi de Oliveira
